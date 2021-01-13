@@ -1,0 +1,108 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    padding-left: 1cm;
+    padding-top: 0.5cm;
+    max-width: 1920px; 
+    max-height: 1080px;
+    margin: 0 auto;
+}
+.navigation {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.nav1 {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding-left: 2cm;
+    padding-top: 0cm;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+.nav2>li>a {
+    text-decoration: none;
+}
+.nav2 {
+    list-style-type: none;
+    padding-left: 6cm;
+    padding-bottom: 5cm;
+    margin: 0 auto;
+}
+.header {
+    background-image: url(../image/fon1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    max-width: 1920px 
+    min-height: 3.43cm;
+    margin: 0 auto;
+}
+.banner {
+    padding-left: 0.5cm;
+    margin: 0 auto;
+}
+.text {
+    list-style-type: none;
+    display: inline-flex;
+    margin: 0 auto;
+}
+.text>li{
+    padding-left: 1cm;
+    padding-top: 1cm;
+    margin: 0 auto;
+}  
+.text>li>a {
+    text-decoration: none;
+} 
+.info {
+    background-image: url(../image/fon2.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center center;
+    max-width: 1920px
+    min-height: 3.42cm;
+    margin: 0 auto;
+}  
+.img {
+    background-image: url(../image/IMG_2998\ copy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    max-width: 1920px; 
+    max-height: 1080px;
+    margin: 0 auto;
+    }
+.box {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.page1 {
+    display: flex;
+    padding-left: 5cm;
+    list-style-type: none;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+.page1>li>a {
+    text-decoration: none;
+} 
+.page2 {
+    list-style-type: none;
+    padding-right: 1cm;
+}
+.page2>li>a {
+    text-decoration: none;
+} 
+.box {
+    background-image: url(../image/fon3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    max-width: 1920px; 
+    max-height: 1020px;
+    margin: 0 auto;
+}
